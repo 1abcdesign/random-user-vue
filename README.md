@@ -39,4 +39,4 @@ The JavaScript file initializes a Vue.js application, fetches random user data f
 
 ## Author
 
-(č) Vadym Chervoniak-Bogdanov
+© Vadim Chervoniak
